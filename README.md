@@ -15,6 +15,9 @@
   * mappings   - A lookup tables,map keys to values so we can change values.
   * Resources  - Create AWS resources which is based on infrastucture.
   * Output     - Values of custom resources created by template (URLs, usernames, etc.)
+
+    ![pic2](https://github.com/sumathi1805/project2/assets/150107821/e79a2aad-02f5-4f4f-becd-54c300852737)
+
 # Key functions
 ## 1.Infrastructure as Code (IaC): 
 CloudFormation allows users to define and manage AWS infrastructure using a template, which is essentially code. This approach provides the benefits of versioning, reuse, and consistency in infrastructure deployment.
