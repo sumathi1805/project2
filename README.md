@@ -16,7 +16,9 @@
   * Resources  - Create AWS resources which is based on infrastucture.
   * Output     - Values of custom resources created by template (URLs, usernames, etc.)
 
-    ![pic2](https://github.com/sumathi1805/project2/assets/150107821/e79a2aad-02f5-4f4f-becd-54c300852737)
+    ![pic2-Page-5 drawio](https://github.com/sumathi1805/project2/assets/150107821/8a3c7090-d986-4c75-8884-4cb67a07611c)
+
+
 
 # Key functions
 ## 1.Infrastructure as Code (IaC): 
